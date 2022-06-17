@@ -1,7 +1,6 @@
 ## Aprendendo orientação a objetos I - paradigmas de programação
 
 Aprender o paradigma orientado a objetos não é algo fácil, e eu sempre percebi que esse era um assunto complicado de entender pelas pessoas com o qual eu interajo, por isso resolvi criar essa série de artigos dando a minha visão de como aprender esse assunto tão requerido hoje em dia e espero poder ajudar a você que doou o seu tempo vindo ler o meu blog.
-
 # Introdução
 Nessa série eu gostaria de começar explicando o que são paradigmas de programação, afinal a orientação a objetos é um paradigma de programação, então acredito que começar explicando o que é isso possa ajudar.
 
